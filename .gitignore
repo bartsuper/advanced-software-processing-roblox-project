@@ -1,6 +1,12 @@
 # Project place file
-/intro-to-MSE.rbxlx
+/*.rbxlx
 
 # Roblox Studio lock files
 /*.rbxlx.lock
 /*.rbxl.lock
+
+# Configurations
+*.toml
+
+# VScode
+.vscode/
