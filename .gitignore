@@ -7,3 +7,6 @@
 
 # VScode
 .vscode/
+
+# .DS files
+*/.DS_Store

@@ -4,18 +4,21 @@
     "$className": "DataModel",
 
     "ReplicatedStorage": {
+      "$ignoreUnknownInstances": true,
       "Shared": {
         "$path": "src/shared"
       }
     },
 
     "ServerScriptService": {
+      "$ignoreUnknownInstances": true,
       "Server": {
         "$path": "src/server"
       }
     },
 
     "StarterPlayer": {
+      "$ignoreUnknownInstances": true,
       "StarterPlayerScripts": {
         "Client": {
           "$path": "src/client"
@@ -24,10 +27,12 @@
     },
 
     "StarterGui": {
+      "$ignoreUnknownInstances": true,
       "$path": "src/starterGui"
     },
 
     "Workspace": {
+      "$ignoreUnknownInstances": true,
       "$properties": {
         "FilteringEnabled": true
       },
@@ -56,7 +61,8 @@
         }
       }
     },
-    "Lighting": {
+    "Lighting": {  
+      "$ignoreUnknownInstances": true,
       "$properties": {
         "Ambient": [
           0,
@@ -70,6 +76,7 @@
       }
     },
     "SoundService": {
+      "$ignoreUnknownInstances": true,
       "$properties": {
         "RespectFilteringEnabled": true
       }
