@@ -4,10 +4,9 @@
     "$className": "DataModel",
 
     "ReplicatedStorage": {
-      "$ignoreUnknownInstances": true,
-      "Shared": {
-        "$path": "src/shared"
-      }
+      "$className": "ReplicatedStorage",
+      "$path": "src/ReplicatedStorage",
+      "$ignoreUnknownInstances": true
     },
 
     "ServerScriptService": {
@@ -36,33 +35,12 @@
       "$properties": {
         "FilteringEnabled": true
       },
-      "$path": "src/workspace",
-      "Baseplate": {
-        "$className": "Part",
-        "$properties": {
-          "Anchored": true,
-          "Color": [
-            0.17254902,
-            0.39607843,
-            0.11764706
-          ],
-          "Locked": true,
-          "Position": [
-            0,
-            -10,
-            0
-          ],
-          "Size": [
-            512,
-            20,
-            512
-          ],
-          "Material": "Grass"
-        }
-      }
+      "$path": "src/workspace"
     },
+    
     "Lighting": {  
       "$ignoreUnknownInstances": true,
+      "$path": "src/lighting",
       "$properties": {
         "Ambient": [
           0,
