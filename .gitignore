@@ -5,8 +5,5 @@
 /*.rbxlx.lock
 /*.rbxl.lock
 
-# Configurations
-selene.toml
-
 # VScode
 .vscode/
