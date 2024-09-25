@@ -2,7 +2,7 @@
 	<Meta name="ExplicitAutoJoints">true</Meta>
 	<External>null</External>
 	<External>nil</External>
-	<Item class="Model" referent="RBX2dac5778d27f485894d60a87d8545d8f">
+	<Item class="Model" referent="43">
 		<Properties>
 			<BinaryString name="AttributesSerialize"></BinaryString>
 			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
@@ -29,7 +29,7 @@
 				<Z>0</Z>
 			</Vector3>
 			<token name="ModelStreamingMode">0</token>
-			<string name="Name">CSUF-main-gate</string>
+			<string name="Name">CSUF-Main-Gate</string>
 			<bool name="NeedsPivotMigration">false</bool>
 			<Ref name="PrimaryPart">null</Ref>
 			<float name="ScaleFactor">0.461483508</float>
@@ -37,22 +37,22 @@
 			<BinaryString name="Tags"></BinaryString>
 			<OptionalCoordinateFrame name="WorldPivotData">
 				<CFrame>
-					<X>6.82761383</X>
+					<X>-0.172386169</X>
 					<Y>6.07967377e-06</Y>
-					<Z>11.7063293</Z>
-					<R00>0.999925077</R00>
-					<R01>-1.2244703e-16</R01>
-					<R02>8.16187912e-17</R02>
-					<R10>1.224555e-16</R10>
+					<Z>66.7061615</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
 					<R11>1</R11>
-					<R12>1.22464301e-16</R12>
-					<R20>-8.16642001e-17</R20>
-					<R21>-1.22464672e-16</R21>
-					<R22>0.99999702</R22>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
 				</CFrame>
 			</OptionalCoordinateFrame>
 		</Properties>
-		<Item class="MeshPart" referent="RBX54d8c154ac204ce8ae53114146f3f7f1">
+		<Item class="MeshPart" referent="44">
 			<Properties>
 				<SharedString name="AeroMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
 				<bool name="Anchored">false</bool>
@@ -66,17 +66,17 @@
 				<token name="BottomSurface">0</token>
 				<token name="BottomSurfaceInput">0</token>
 				<CoordinateFrame name="CFrame">
-					<X>7.33835602</X>
+					<X>0.338317931</X>
 					<Y>18.4245033</Y>
-					<Z>15.3518829</Z>
-					<R00>0.99999994</R00>
-					<R01>-1.22464672e-16</R01>
-					<R02>8.16703344e-17</R02>
-					<R10>1.22464685e-16</R10>
+					<Z>70.3517075</Z>
+					<R00>1</R00>
+					<R01>-1.76699027e-20</R01>
+					<R02>5.13486065e-20</R02>
+					<R10>1.76699027e-20</R10>
 					<R11>1</R11>
-					<R12>1.22464685e-16</R12>
-					<R20>-8.16703741e-17</R20>
-					<R21>-1.22464685e-16</R21>
+					<R12>1.32348898e-23</R12>
+					<R20>-5.13486065e-20</R20>
+					<R21>-1.32348898e-23</R21>
 					<R22>1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">true</bool>
@@ -185,7 +185,7 @@
 				</Vector3>
 			</Properties>
 		</Item>
-		<Item class="MeshPart" referent="RBXc72651d16bd54715bce620661f4ee8b0">
+		<Item class="MeshPart" referent="45">
 			<Properties>
 				<SharedString name="AeroMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
 				<bool name="Anchored">false</bool>
@@ -199,17 +199,17 @@
 				<token name="BottomSurface">0</token>
 				<token name="BottomSurfaceInput">0</token>
 				<CoordinateFrame name="CFrame">
-					<X>7.36042118</X>
+					<X>0.360383034</X>
 					<Y>31.9108829</Y>
-					<Z>15.4192896</Z>
-					<R00>0.999999821</R00>
-					<R01>-1.22464646e-16</R01>
-					<R02>8.16702881e-17</R02>
-					<R10>1.22464698e-16</R10>
+					<Z>70.4191132</Z>
+					<R00>0.999999881</R00>
+					<R01>-1.76434329e-20</R01>
+					<R02>5.13022844e-20</R02>
+					<R10>1.76963708e-20</R10>
 					<R11>1</R11>
-					<R12>1.22464685e-16</R12>
-					<R20>-8.16704138e-17</R20>
-					<R21>-1.22464685e-16</R21>
+					<R12>1.32348898e-23</R12>
+					<R20>-5.13949222e-20</R20>
+					<R21>-1.32348898e-23</R21>
 					<R22>1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">false</bool>
@@ -318,7 +318,7 @@
 				</Vector3>
 			</Properties>
 		</Item>
-		<Item class="MeshPart" referent="RBXdee7c11b21524b6fbf5b2d27c295d5f1">
+		<Item class="MeshPart" referent="46">
 			<Properties>
 				<SharedString name="AeroMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
 				<bool name="Anchored">false</bool>
@@ -332,17 +332,17 @@
 				<token name="BottomSurface">0</token>
 				<token name="BottomSurfaceInput">0</token>
 				<CoordinateFrame name="CFrame">
-					<X>7.33647585</X>
+					<X>0.336437792</X>
 					<Y>29.3582344</Y>
-					<Z>15.4192896</Z>
-					<R00>0.999999821</R00>
-					<R01>-1.22464646e-16</R01>
-					<R02>8.16702881e-17</R02>
-					<R10>1.22464698e-16</R10>
+					<Z>70.4191132</Z>
+					<R00>0.999999881</R00>
+					<R01>-1.76434329e-20</R01>
+					<R02>5.13022844e-20</R02>
+					<R10>1.76963708e-20</R10>
 					<R11>1</R11>
-					<R12>1.22464685e-16</R12>
-					<R20>-8.16704138e-17</R20>
-					<R21>-1.22464685e-16</R21>
+					<R12>1.32348898e-23</R12>
+					<R20>-5.13949222e-20</R20>
+					<R21>-1.32348898e-23</R21>
 					<R22>1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">false</bool>
@@ -451,7 +451,7 @@
 				</Vector3>
 			</Properties>
 		</Item>
-		<Item class="MeshPart" referent="RBXc091dee275dd44cfbafd0129eb2b0c32">
+		<Item class="MeshPart" referent="47">
 			<Properties>
 				<SharedString name="AeroMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
 				<bool name="Anchored">false</bool>
@@ -465,17 +465,17 @@
 				<token name="BottomSurface">0</token>
 				<token name="BottomSurfaceInput">0</token>
 				<CoordinateFrame name="CFrame">
-					<X>62.3618774</X>
+					<X>55.3618431</X>
 					<Y>7.14848518</Y>
-					<Z>14.7452211</Z>
-					<R00>0.999999821</R00>
-					<R01>-1.22464646e-16</R01>
-					<R02>8.16702881e-17</R02>
-					<R10>1.22464698e-16</R10>
+					<Z>69.7450485</Z>
+					<R00>0.999999881</R00>
+					<R01>-1.76434329e-20</R01>
+					<R02>5.13022844e-20</R02>
+					<R10>1.76963708e-20</R10>
 					<R11>1</R11>
-					<R12>1.22464685e-16</R12>
-					<R20>-8.16704138e-17</R20>
-					<R21>-1.22464685e-16</R21>
+					<R12>1.32348898e-23</R12>
+					<R20>-5.13949222e-20</R20>
+					<R21>-1.32348898e-23</R21>
 					<R22>1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">false</bool>
@@ -584,7 +584,7 @@
 				</Vector3>
 			</Properties>
 		</Item>
-		<Item class="MeshPart" referent="RBX60674727b8d649d88b68bd1ad3b758df">
+		<Item class="MeshPart" referent="48">
 			<Properties>
 				<SharedString name="AeroMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
 				<bool name="Anchored">false</bool>
@@ -598,17 +598,17 @@
 				<token name="BottomSurface">0</token>
 				<token name="BottomSurfaceInput">0</token>
 				<CoordinateFrame name="CFrame">
-					<X>-47.7485085</X>
+					<X>-54.7485504</X>
 					<Y>5.12347984</Y>
-					<Z>14.0347614</Z>
-					<R00>0.999999821</R00>
-					<R01>-1.22464646e-16</R01>
-					<R02>8.16702881e-17</R02>
-					<R10>1.22464698e-16</R10>
+					<Z>69.034584</Z>
+					<R00>0.999999881</R00>
+					<R01>-1.76434329e-20</R01>
+					<R02>5.13022844e-20</R02>
+					<R10>1.76963708e-20</R10>
 					<R11>1</R11>
-					<R12>1.22464685e-16</R12>
-					<R20>-8.16704138e-17</R20>
-					<R21>-1.22464685e-16</R21>
+					<R12>1.32348898e-23</R12>
+					<R20>-5.13949222e-20</R20>
+					<R21>-1.32348898e-23</R21>
 					<R22>1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">false</bool>
@@ -717,7 +717,7 @@
 				</Vector3>
 			</Properties>
 		</Item>
-		<Item class="MeshPart" referent="RBX3c8a57148ea74bce9e365d38ad3716c7">
+		<Item class="MeshPart" referent="49">
 			<Properties>
 				<SharedString name="AeroMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
 				<bool name="Anchored">false</bool>
@@ -731,17 +731,17 @@
 				<token name="BottomSurface">0</token>
 				<token name="BottomSurfaceInput">0</token>
 				<CoordinateFrame name="CFrame">
-					<X>62.3614349</X>
+					<X>55.3614006</X>
 					<Y>5.12347984</Y>
-					<Z>14.0347614</Z>
-					<R00>0.999999821</R00>
-					<R01>-1.22464646e-16</R01>
-					<R02>8.16702881e-17</R02>
-					<R10>1.22464698e-16</R10>
+					<Z>69.034584</Z>
+					<R00>0.999999881</R00>
+					<R01>-1.76434329e-20</R01>
+					<R02>5.13022844e-20</R02>
+					<R10>1.76963708e-20</R10>
 					<R11>1</R11>
-					<R12>1.22464685e-16</R12>
-					<R20>-8.16704138e-17</R20>
-					<R21>-1.22464685e-16</R21>
+					<R12>1.32348898e-23</R12>
+					<R20>-5.13949222e-20</R20>
+					<R21>-1.32348898e-23</R21>
 					<R22>1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">false</bool>
@@ -850,7 +850,7 @@
 				</Vector3>
 			</Properties>
 		</Item>
-		<Item class="MeshPart" referent="RBXab889945a50347879f7f6895769f7062">
+		<Item class="MeshPart" referent="50">
 			<Properties>
 				<SharedString name="AeroMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
 				<bool name="Anchored">false</bool>
@@ -864,17 +864,17 @@
 				<token name="BottomSurface">0</token>
 				<token name="BottomSurfaceInput">0</token>
 				<CoordinateFrame name="CFrame">
-					<X>-47.845192</X>
+					<X>-54.8452339</X>
 					<Y>1.36613274</Y>
-					<Z>15.3909006</Z>
-					<R00>0.999999821</R00>
-					<R01>-1.22464646e-16</R01>
-					<R02>8.16702881e-17</R02>
-					<R10>1.22464698e-16</R10>
+					<Z>70.3907242</Z>
+					<R00>0.999999881</R00>
+					<R01>-1.76434329e-20</R01>
+					<R02>5.13022844e-20</R02>
+					<R10>1.76963708e-20</R10>
 					<R11>1</R11>
-					<R12>1.22464685e-16</R12>
-					<R20>-8.16704138e-17</R20>
-					<R21>-1.22464685e-16</R21>
+					<R12>1.32348898e-23</R12>
+					<R20>-5.13949222e-20</R20>
+					<R21>-1.32348898e-23</R21>
 					<R22>1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">false</bool>
@@ -983,7 +983,7 @@
 				</Vector3>
 			</Properties>
 		</Item>
-		<Item class="MeshPart" referent="RBXf369114b81ba432a9aef43891b1f0628">
+		<Item class="MeshPart" referent="51">
 			<Properties>
 				<SharedString name="AeroMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
 				<bool name="Anchored">false</bool>
@@ -997,17 +997,17 @@
 				<token name="BottomSurface">0</token>
 				<token name="BottomSurfaceInput">0</token>
 				<CoordinateFrame name="CFrame">
-					<X>62.4493408</X>
+					<X>55.4493065</X>
 					<Y>1.36613274</Y>
-					<Z>15.3909006</Z>
-					<R00>0.999999821</R00>
-					<R01>-1.22464646e-16</R01>
-					<R02>8.16702881e-17</R02>
-					<R10>1.22464698e-16</R10>
+					<Z>70.3907242</Z>
+					<R00>0.999999881</R00>
+					<R01>-1.76434329e-20</R01>
+					<R02>5.13022844e-20</R02>
+					<R10>1.76963708e-20</R10>
 					<R11>1</R11>
-					<R12>1.22464685e-16</R12>
-					<R20>-8.16704138e-17</R20>
-					<R21>-1.22464685e-16</R21>
+					<R12>1.32348898e-23</R12>
+					<R20>-5.13949222e-20</R20>
+					<R21>-1.32348898e-23</R21>
 					<R22>1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">false</bool>
@@ -1116,7 +1116,7 @@
 				</Vector3>
 			</Properties>
 		</Item>
-		<Item class="MeshPart" referent="RBX48196aa24c47437691acdfcd5d264670">
+		<Item class="MeshPart" referent="52">
 			<Properties>
 				<SharedString name="AeroMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
 				<bool name="Anchored">false</bool>
@@ -1130,17 +1130,17 @@
 				<token name="BottomSurface">0</token>
 				<token name="BottomSurfaceInput">0</token>
 				<CoordinateFrame name="CFrame">
-					<X>42.1360283</X>
+					<X>35.135994</X>
 					<Y>24.6249027</Y>
-					<Z>14.9556761</Z>
-					<R00>0.999999821</R00>
-					<R01>-1.22464646e-16</R01>
-					<R02>8.16702881e-17</R02>
-					<R10>1.22464698e-16</R10>
+					<Z>69.9554977</Z>
+					<R00>0.999999881</R00>
+					<R01>-1.76434329e-20</R01>
+					<R02>5.13022844e-20</R02>
+					<R10>1.76963708e-20</R10>
 					<R11>1</R11>
-					<R12>1.22464685e-16</R12>
-					<R20>-8.16704138e-17</R20>
-					<R21>-1.22464685e-16</R21>
+					<R12>1.32348898e-23</R12>
+					<R20>-5.13949222e-20</R20>
+					<R21>-1.32348898e-23</R21>
 					<R22>1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">false</bool>
@@ -1249,7 +1249,7 @@
 				</Vector3>
 			</Properties>
 		</Item>
-		<Item class="MeshPart" referent="RBX6f0091b9695d4f48b9c63e3ce3b4ed2c">
+		<Item class="MeshPart" referent="53">
 			<Properties>
 				<SharedString name="AeroMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
 				<bool name="Anchored">false</bool>
@@ -1263,17 +1263,17 @@
 				<token name="BottomSurface">0</token>
 				<token name="BottomSurfaceInput">0</token>
 				<CoordinateFrame name="CFrame">
-					<X>-24.7790565</X>
+					<X>-31.7790985</X>
 					<Y>24.6249027</Y>
-					<Z>14.9556761</Z>
-					<R00>0.999999821</R00>
-					<R01>-1.22464646e-16</R01>
-					<R02>8.16702881e-17</R02>
-					<R10>1.22464698e-16</R10>
+					<Z>69.9554977</Z>
+					<R00>0.999999881</R00>
+					<R01>-1.76434329e-20</R01>
+					<R02>5.13022844e-20</R02>
+					<R10>1.76963708e-20</R10>
 					<R11>1</R11>
-					<R12>1.22464685e-16</R12>
-					<R20>-8.16704138e-17</R20>
-					<R21>-1.22464685e-16</R21>
+					<R12>1.32348898e-23</R12>
+					<R20>-5.13949222e-20</R20>
+					<R21>-1.32348898e-23</R21>
 					<R22>1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">false</bool>
@@ -1382,7 +1382,7 @@
 				</Vector3>
 			</Properties>
 		</Item>
-		<Item class="MeshPart" referent="RBXd22adeafab644cd8ab24e93115ef6eca">
+		<Item class="MeshPart" referent="54">
 			<Properties>
 				<SharedString name="AeroMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
 				<bool name="Anchored">false</bool>
@@ -1396,17 +1396,17 @@
 				<token name="BottomSurface">0</token>
 				<token name="BottomSurfaceInput">0</token>
 				<CoordinateFrame name="CFrame">
-					<X>7.54794788</X>
+					<X>0.547909975</X>
 					<Y>30.3523483</Y>
-					<Z>14.8971415</Z>
-					<R00>0.999999821</R00>
-					<R01>-1.22464646e-16</R01>
-					<R02>8.16702881e-17</R02>
-					<R10>1.22464698e-16</R10>
+					<Z>69.896965</Z>
+					<R00>0.999999881</R00>
+					<R01>-1.76434329e-20</R01>
+					<R02>5.13022844e-20</R02>
+					<R10>1.76963708e-20</R10>
 					<R11>1</R11>
-					<R12>1.22464685e-16</R12>
-					<R20>-8.16704138e-17</R20>
-					<R21>-1.22464685e-16</R21>
+					<R12>1.32348898e-23</R12>
+					<R20>-5.13949222e-20</R20>
+					<R21>-1.32348898e-23</R21>
 					<R22>1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">false</bool>
@@ -1515,7 +1515,7 @@
 				</Vector3>
 			</Properties>
 		</Item>
-		<Item class="WeldConstraint" referent="RBX261ee906686f4d36936758a3d6c735e7">
+		<Item class="WeldConstraint" referent="55">
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<CoordinateFrame name="CFrame0">
@@ -1535,14 +1535,14 @@
 				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
 				<bool name="DefinesCapabilities">false</bool>
 				<string name="Name">WeldConstraint</string>
-				<Ref name="Part0Internal">RBX54d8c154ac204ce8ae53114146f3f7f1</Ref>
-				<Ref name="Part1Internal">RBXd22adeafab644cd8ab24e93115ef6eca</Ref>
+				<Ref name="Part0Internal">44</Ref>
+				<Ref name="Part1Internal">54</Ref>
 				<int64 name="SourceAssetId">-1</int64>
 				<int name="State">3</int>
 				<BinaryString name="Tags"></BinaryString>
 			</Properties>
 		</Item>
-		<Item class="WeldConstraint" referent="RBXb8c9c21261684904858e63b95bbca96a">
+		<Item class="WeldConstraint" referent="56">
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<CoordinateFrame name="CFrame0">
@@ -1562,14 +1562,14 @@
 				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
 				<bool name="DefinesCapabilities">false</bool>
 				<string name="Name">WeldConstraint</string>
-				<Ref name="Part0Internal">RBX54d8c154ac204ce8ae53114146f3f7f1</Ref>
-				<Ref name="Part1Internal">RBX6f0091b9695d4f48b9c63e3ce3b4ed2c</Ref>
+				<Ref name="Part0Internal">44</Ref>
+				<Ref name="Part1Internal">53</Ref>
 				<int64 name="SourceAssetId">-1</int64>
 				<int name="State">3</int>
 				<BinaryString name="Tags"></BinaryString>
 			</Properties>
 		</Item>
-		<Item class="WeldConstraint" referent="RBXf105dd98a61f4c39993b2a8ad48df452">
+		<Item class="WeldConstraint" referent="57">
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<CoordinateFrame name="CFrame0">
@@ -1589,14 +1589,14 @@
 				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
 				<bool name="DefinesCapabilities">false</bool>
 				<string name="Name">WeldConstraint</string>
-				<Ref name="Part0Internal">RBX54d8c154ac204ce8ae53114146f3f7f1</Ref>
-				<Ref name="Part1Internal">RBX48196aa24c47437691acdfcd5d264670</Ref>
+				<Ref name="Part0Internal">44</Ref>
+				<Ref name="Part1Internal">52</Ref>
 				<int64 name="SourceAssetId">-1</int64>
 				<int name="State">3</int>
 				<BinaryString name="Tags"></BinaryString>
 			</Properties>
 		</Item>
-		<Item class="WeldConstraint" referent="RBX62a8184325ae45419ba26d56f5271a14">
+		<Item class="WeldConstraint" referent="58">
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<CoordinateFrame name="CFrame0">
@@ -1616,14 +1616,14 @@
 				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
 				<bool name="DefinesCapabilities">false</bool>
 				<string name="Name">WeldConstraint</string>
-				<Ref name="Part0Internal">RBX54d8c154ac204ce8ae53114146f3f7f1</Ref>
-				<Ref name="Part1Internal">RBXf369114b81ba432a9aef43891b1f0628</Ref>
+				<Ref name="Part0Internal">44</Ref>
+				<Ref name="Part1Internal">51</Ref>
 				<int64 name="SourceAssetId">-1</int64>
 				<int name="State">3</int>
 				<BinaryString name="Tags"></BinaryString>
 			</Properties>
 		</Item>
-		<Item class="WeldConstraint" referent="RBX6d6acb652ef54e3899699528abe978c5">
+		<Item class="WeldConstraint" referent="59">
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<CoordinateFrame name="CFrame0">
@@ -1643,14 +1643,14 @@
 				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
 				<bool name="DefinesCapabilities">false</bool>
 				<string name="Name">WeldConstraint</string>
-				<Ref name="Part0Internal">RBX54d8c154ac204ce8ae53114146f3f7f1</Ref>
-				<Ref name="Part1Internal">RBXab889945a50347879f7f6895769f7062</Ref>
+				<Ref name="Part0Internal">44</Ref>
+				<Ref name="Part1Internal">50</Ref>
 				<int64 name="SourceAssetId">-1</int64>
 				<int name="State">3</int>
 				<BinaryString name="Tags"></BinaryString>
 			</Properties>
 		</Item>
-		<Item class="WeldConstraint" referent="RBXc4d3e19ec05549f68366abaf31d806f5">
+		<Item class="WeldConstraint" referent="60">
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<CoordinateFrame name="CFrame0">
@@ -1670,14 +1670,14 @@
 				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
 				<bool name="DefinesCapabilities">false</bool>
 				<string name="Name">WeldConstraint</string>
-				<Ref name="Part0Internal">RBX54d8c154ac204ce8ae53114146f3f7f1</Ref>
-				<Ref name="Part1Internal">RBX3c8a57148ea74bce9e365d38ad3716c7</Ref>
+				<Ref name="Part0Internal">44</Ref>
+				<Ref name="Part1Internal">49</Ref>
 				<int64 name="SourceAssetId">-1</int64>
 				<int name="State">3</int>
 				<BinaryString name="Tags"></BinaryString>
 			</Properties>
 		</Item>
-		<Item class="WeldConstraint" referent="RBX210c4752a5d0412db16b6fc649d4f060">
+		<Item class="WeldConstraint" referent="61">
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<CoordinateFrame name="CFrame0">
@@ -1697,14 +1697,14 @@
 				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
 				<bool name="DefinesCapabilities">false</bool>
 				<string name="Name">WeldConstraint</string>
-				<Ref name="Part0Internal">RBX54d8c154ac204ce8ae53114146f3f7f1</Ref>
-				<Ref name="Part1Internal">RBX60674727b8d649d88b68bd1ad3b758df</Ref>
+				<Ref name="Part0Internal">44</Ref>
+				<Ref name="Part1Internal">48</Ref>
 				<int64 name="SourceAssetId">-1</int64>
 				<int name="State">3</int>
 				<BinaryString name="Tags"></BinaryString>
 			</Properties>
 		</Item>
-		<Item class="WeldConstraint" referent="RBX25967227f6d0426b9455d9255e70a76d">
+		<Item class="WeldConstraint" referent="62">
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<CoordinateFrame name="CFrame0">
@@ -1724,14 +1724,14 @@
 				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
 				<bool name="DefinesCapabilities">false</bool>
 				<string name="Name">WeldConstraint</string>
-				<Ref name="Part0Internal">RBX54d8c154ac204ce8ae53114146f3f7f1</Ref>
-				<Ref name="Part1Internal">RBXc72651d16bd54715bce620661f4ee8b0</Ref>
+				<Ref name="Part0Internal">44</Ref>
+				<Ref name="Part1Internal">45</Ref>
 				<int64 name="SourceAssetId">-1</int64>
 				<int name="State">3</int>
 				<BinaryString name="Tags"></BinaryString>
 			</Properties>
 		</Item>
-		<Item class="WeldConstraint" referent="RBX347c04c75e54469fab75c6dfe2aad036">
+		<Item class="WeldConstraint" referent="63">
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<CoordinateFrame name="CFrame0">
@@ -1751,14 +1751,14 @@
 				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
 				<bool name="DefinesCapabilities">false</bool>
 				<string name="Name">WeldConstraint</string>
-				<Ref name="Part0Internal">RBX54d8c154ac204ce8ae53114146f3f7f1</Ref>
-				<Ref name="Part1Internal">RBXdee7c11b21524b6fbf5b2d27c295d5f1</Ref>
+				<Ref name="Part0Internal">44</Ref>
+				<Ref name="Part1Internal">46</Ref>
 				<int64 name="SourceAssetId">-1</int64>
 				<int name="State">3</int>
 				<BinaryString name="Tags"></BinaryString>
 			</Properties>
 		</Item>
-		<Item class="WeldConstraint" referent="RBXc512f6e4f5fe4702bec6622b9152a524">
+		<Item class="WeldConstraint" referent="64">
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<CoordinateFrame name="CFrame0">
@@ -1778,8 +1778,8 @@
 				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
 				<bool name="DefinesCapabilities">false</bool>
 				<string name="Name">WeldConstraint</string>
-				<Ref name="Part0Internal">RBX54d8c154ac204ce8ae53114146f3f7f1</Ref>
-				<Ref name="Part1Internal">RBXc091dee275dd44cfbafd0129eb2b0c32</Ref>
+				<Ref name="Part0Internal">44</Ref>
+				<Ref name="Part1Internal">47</Ref>
 				<int64 name="SourceAssetId">-1</int64>
 				<int name="State">3</int>
 				<BinaryString name="Tags"></BinaryString>
