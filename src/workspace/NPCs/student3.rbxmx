@@ -1398,6 +1398,7 @@
 
 Info.LeaveMessage = "I'm glad I can help!"
 Info.CameraDistance = 15
+Info.StallName = "ProfessorStall"
 
 Info.Dialog = {
 	[1] = {

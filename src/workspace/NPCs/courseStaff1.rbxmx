@@ -1398,6 +1398,7 @@
 
 Info.LeaveMessage = "Goodbye, I'll see you around"
 Info.CameraDistance = 15
+Info.StallName = "CourseStall"
 
 Info.Dialog = {
 	[1] = {
