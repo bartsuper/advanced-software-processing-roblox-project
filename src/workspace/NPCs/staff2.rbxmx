@@ -1606,6 +1606,7 @@
 
 Info.LeaveMessage = "Goodbye, I'll see you around"
 Info.CameraDistance = 15
+Info.StallName = "CareerPathStall"
 
 Info.Dialog = {
 	[1] = {

@@ -1397,6 +1397,7 @@
 				<ProtectedString name="Source"><![CDATA[local Info = {}
 Info.LeaveMessage = "Have a nice day"
 Info.CameraDistance = 15
+Info.StallName = "ExpenseStall"
 
 Info.Dialog = {
 	[1] = {

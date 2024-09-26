@@ -1398,6 +1398,7 @@
 
 Info.LeaveMessage = "Have a nice day"
 Info.CameraDistance = 15
+Info.StallName = "ApplicationStall"
 
 Info.Dialog = {
 	[1] = {
