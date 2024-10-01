@@ -1,5 +1,7 @@
 # intro-to-MSE
 This is a course project for CPSC-544. A Roblox game that introduces the CSUF MSE program. 
+
+[Demo vidio at YouTube](https://www.youtube.com/watch?v=_gdVEufl6zI)
 ## Dependencies
 This project uses:
 - Rojo 7.4.4
